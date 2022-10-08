@@ -1,0 +1,110 @@
+2022-10-08 12:15:17 INFO  Log:10 - Clicking on the dynamic web table in home page
+2022-10-08 12:17:33 INFO  Log:10 - Clicking on the dynamic web table in home page
+2022-10-08 12:17:34 INFO  Log:10 - verify if dynamicId Button Exists
+2022-10-08 12:17:34 INFO  Log:10 - TC_01_DYNAMIC_LINK_VALIDATION Passed
+2022-10-08 12:19:45 INFO  Log:10 - Clicking on the dynamic web table in home page
+2022-10-08 12:19:46 INFO  Log:10 - verify if dynamicId Button Exists
+2022-10-08 12:19:46 INFO  Log:10 - TC_01_DYNAMIC_LINK_VALIDATION Passed
+2022-10-08 12:19:46 INFO  Log:10 - Clicking on the dynamic web table in home page
+2022-10-08 12:19:46 INFO  Log:10 - Clicking on over lapped element link in home page
+2022-10-08 12:19:46 INFO  Log:10 - Non Breaking Space Click
+2022-10-08 12:19:46 INFO  Log:10 - Clicking on ajax data link in home page
+2022-10-08 12:19:46 INFO  Log:10 - Clicking on ajax data link in home page
+2022-10-08 12:19:46 INFO  Log:10 - Clicking on load delay link in home page
+2022-10-08 12:20:35 INFO  Log:10 - Clicking on the dynamic web table in home page
+2022-10-08 12:20:36 INFO  Log:10 - verify if dynamicId Button Exists
+2022-10-08 12:20:36 INFO  Log:10 - TC_01_DYNAMIC_LINK_VALIDATION Passed
+2022-10-08 12:20:38 INFO  Log:10 - Clicking on the dynamic web table in home page
+2022-10-08 12:20:40 INFO  Log:10 - verify if dynamic Table Exists
+2022-10-08 12:20:40 INFO  Log:10 - Comparing the cpu Values
+2022-10-08 12:20:40 INFO  Log:10 - TC_02_DYNAMIC_WEB_TABLE_VALIDATION Passed
+2022-10-08 12:20:42 INFO  Log:10 - Clicking on over lapped element link in home page
+2022-10-08 12:20:43 INFO  Log:10 - scroll PlayGround Pane
+2022-10-08 12:20:43 INFO  Log:10 - enter the Text In Name Field
+2022-10-08 12:20:43 INFO  Log:10 - Finally Validate the Text In Name Field
+2022-10-08 12:20:43 INFO  Log:10 - TC_03_ENTERING_TEXT_IN_OVERLAPPED_ELEMENT_VALIDATION Passed
+2022-10-08 12:20:45 INFO  Log:10 - Non Breaking Space Click
+2022-10-08 12:20:46 INFO  Log:10 - Validate button text
+2022-10-08 12:20:46 INFO  Log:10 - TC05_Non_Breaking_Space Passed
+2022-10-08 12:20:48 INFO  Log:10 - Clicking on ajax data link in home page
+2022-10-08 12:20:49 INFO  Log:10 - Clicking on ajax data link in home page
+2022-10-08 12:20:49 INFO  Log:10 - TC06_VISIBILITY_TEST Passed
+2022-10-08 12:20:51 INFO  Log:10 - Clicking on ajax data link in home page
+2022-10-08 12:20:52 INFO  Log:10 - click on Ajax RequestButton And validate the text
+2022-10-08 12:21:08 INFO  Log:10 - TC09_AJAX_DATA_TEST Passed
+2022-10-08 12:21:10 INFO  Log:10 - Clicking on load delay link in home page
+2022-10-08 12:21:16 INFO  Log:10 - Waiting for the button to load
+2022-10-08 12:21:16 INFO  Log:10 - TC10_LOAD_DELAY_TEST PASSED
+2022-10-08 12:25:00 INFO  Log:10 - Clicking on the dynamic web table in home page
+2022-10-08 12:25:01 INFO  Log:10 - verify if dynamicId Button Exists
+2022-10-08 12:25:01 INFO  Log:10 - TC_01_DYNAMIC_LINK_VALIDATION Passed
+2022-10-08 12:25:03 INFO  Log:10 - Clicking on the dynamic web table in home page
+2022-10-08 12:25:04 INFO  Log:10 - verify if dynamic Table Exists
+2022-10-08 12:25:04 INFO  Log:10 - Comparing the cpu Values
+2022-10-08 12:25:04 INFO  Log:10 - TC_02_DYNAMIC_WEB_TABLE_VALIDATION Passed
+2022-10-08 12:25:06 INFO  Log:10 - Clicking on over lapped element link in home page
+2022-10-08 12:25:08 INFO  Log:10 - scroll PlayGround Pane
+2022-10-08 12:25:09 INFO  Log:10 - enter the Text In Name Field
+2022-10-08 12:25:09 INFO  Log:10 - Finally Validate the Text In Name Field
+2022-10-08 12:25:09 INFO  Log:10 - TC_03_ENTERING_TEXT_IN_OVERLAPPED_ELEMENT_VALIDATION Passed
+2022-10-08 12:25:11 INFO  Log:10 - Non Breaking Space Click
+2022-10-08 12:25:12 INFO  Log:10 - Validate button text
+2022-10-08 12:25:12 INFO  Log:10 - TC05_Non_Breaking_Space Passed
+2022-10-08 12:25:14 INFO  Log:10 - Clicking on ajax data link in home page
+2022-10-08 12:25:15 INFO  Log:10 - Clicking on ajax data link in home page
+2022-10-08 12:25:15 INFO  Log:10 - TC06_VISIBILITY_TEST Passed
+2022-10-08 12:25:17 INFO  Log:10 - Clicking on ajax data link in home page
+2022-10-08 12:25:18 INFO  Log:10 - click on Ajax RequestButton And validate the text
+2022-10-08 12:25:34 INFO  Log:10 - TC09_AJAX_DATA_TEST Passed
+2022-10-08 12:25:36 INFO  Log:10 - Clicking on load delay link in home page
+2022-10-08 12:25:42 INFO  Log:10 - Waiting for the button to load
+2022-10-08 12:25:42 INFO  Log:10 - TC10_LOAD_DELAY_TEST PASSED
+2022-10-08 12:27:34 INFO  Log:10 - Clicking on the dynamic web table in home page
+2022-10-08 12:28:13 INFO  Log:10 - Clicking on the dynamic web table in home page
+2022-10-08 12:28:13 INFO  Log:10 - verify if dynamicId Button Exists
+2022-10-08 12:28:14 INFO  Log:10 - TC_01_DYNAMIC_LINK_VALIDATION Passed
+2022-10-08 12:28:16 INFO  Log:10 - Clicking on the dynamic web table in home page
+2022-10-08 12:28:17 INFO  Log:10 - verify if dynamic Table Exists
+2022-10-08 12:28:17 INFO  Log:10 - Comparing the cpu Values
+2022-10-08 12:28:17 INFO  Log:10 - TC_02_DYNAMIC_WEB_TABLE_VALIDATION Passed
+2022-10-08 12:28:19 INFO  Log:10 - Clicking on over lapped element link in home page
+2022-10-08 12:28:22 INFO  Log:10 - scroll PlayGround Pane
+2022-10-08 12:28:22 INFO  Log:10 - enter the Text In Name Field
+2022-10-08 12:28:22 INFO  Log:10 - Finally Validate the Text In Name Field
+2022-10-08 12:28:22 INFO  Log:10 - TC_03_ENTERING_TEXT_IN_OVERLAPPED_ELEMENT_VALIDATION Passed
+2022-10-08 12:28:24 INFO  Log:10 - Non Breaking Space Click
+2022-10-08 12:28:25 INFO  Log:10 - Validate button text
+2022-10-08 12:28:25 INFO  Log:10 - TC05_Non_Breaking_Space Passed
+2022-10-08 12:28:27 INFO  Log:10 - Clicking on ajax data link in home page
+2022-10-08 12:28:32 INFO  Log:10 - Clicking on ajax data link in home page
+2022-10-08 12:28:32 INFO  Log:10 - TC06_VISIBILITY_TEST Passed
+2022-10-08 12:28:34 INFO  Log:10 - Clicking on ajax data link in home page
+2022-10-08 12:28:36 INFO  Log:10 - click on Ajax RequestButton And validate the text
+2022-10-08 12:28:51 INFO  Log:10 - TC09_AJAX_DATA_TEST Passed
+2022-10-08 12:28:53 INFO  Log:10 - Clicking on load delay link in home page
+2022-10-08 12:28:59 INFO  Log:10 - Waiting for the button to load
+2022-10-08 12:28:59 INFO  Log:10 - TC10_LOAD_DELAY_TEST PASSED
+2022-10-08 12:31:11 INFO  Log:10 - Clicking on the dynamic web table in home page
+2022-10-08 12:31:12 INFO  Log:10 - verify if dynamicId Button Exists
+2022-10-08 12:31:12 INFO  Log:10 - TC_01_DYNAMIC_LINK_VALIDATION Passed
+2022-10-08 12:31:14 INFO  Log:10 - Clicking on the dynamic web table in home page
+2022-10-08 12:31:15 INFO  Log:10 - verify if dynamic Table Exists
+2022-10-08 12:31:15 INFO  Log:10 - Comparing the cpu Values
+2022-10-08 12:31:15 INFO  Log:10 - TC_02_DYNAMIC_WEB_TABLE_VALIDATION Passed
+2022-10-08 12:31:17 INFO  Log:10 - Clicking on over lapped element link in home page
+2022-10-08 12:31:18 INFO  Log:10 - scroll PlayGround Pane
+2022-10-08 12:31:18 INFO  Log:10 - enter the Text In Name Field
+2022-10-08 12:31:18 INFO  Log:10 - Finally Validate the Text In Name Field
+2022-10-08 12:31:18 INFO  Log:10 - TC_03_ENTERING_TEXT_IN_OVERLAPPED_ELEMENT_VALIDATION Passed
+2022-10-08 12:31:20 INFO  Log:10 - Non Breaking Space Click
+2022-10-08 12:31:21 INFO  Log:10 - Validate button text
+2022-10-08 12:31:21 INFO  Log:10 - TC05_Non_Breaking_Space Passed
+2022-10-08 12:31:23 INFO  Log:10 - Clicking on ajax data link in home page
+2022-10-08 12:31:25 INFO  Log:10 - Clicking on ajax data link in home page
+2022-10-08 12:31:25 INFO  Log:10 - TC06_VISIBILITY_TEST Passed
+2022-10-08 12:31:27 INFO  Log:10 - Clicking on ajax data link in home page
+2022-10-08 12:31:28 INFO  Log:10 - click on Ajax RequestButton And validate the text
+2022-10-08 12:31:44 INFO  Log:10 - TC09_AJAX_DATA_TEST Passed
+2022-10-08 12:31:46 INFO  Log:10 - Clicking on load delay link in home page
+2022-10-08 12:31:52 INFO  Log:10 - Waiting for the button to load
+2022-10-08 12:31:52 INFO  Log:10 - TC10_LOAD_DELAY_TEST PASSED

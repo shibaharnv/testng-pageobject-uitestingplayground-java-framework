@@ -1,0 +1,16 @@
+# Created at 2022-10-07T17:06:36.135
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2022-10-07T17:06:36.164
+Unexpected IOException with stream: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:7101
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'snagarajan-MacBook-Pro', ip: '2401:4900:2700:558b:9cbf:c18:138d:c93a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.11'
+Driver info: driver.version: RemoteWebDriver
+
+

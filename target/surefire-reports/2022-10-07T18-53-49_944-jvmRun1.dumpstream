@@ -1,0 +1,48 @@
+# Created at 2022-10-07T18:55:02.642
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2022-10-07T18:55:02.667
+Unexpected IOException with stream: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:34457
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'snagarajan-MacBook-Pro', ip: '2401:4900:22e2:1c1c:b965:1ed7:8ee9:c52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.11'
+Driver info: driver.version: RemoteWebDriver
+
+
+# Created at 2022-10-07T18:55:02.668
+Unexpected IOException with stream: *** Test Suite UiTestingPlayGroundTest started ***
+
+
+# Created at 2022-10-07T18:55:02.669
+Unexpected IOException with stream: Testcases execution completed
+
+
+# Created at 2022-10-07T18:55:02.687
+Unexpected IOException with stream: *** Running test method TC_01_DYNAMIC_LINK_VALIDATION...
+
+
+# Created at 2022-10-07T18:55:02.690
+Unexpected IOException with stream: Directory already exists: /Users/snagarajan/Desktop/ApiTestAutomation/Selenium-PageObject-Java-AutomationFramework-master/TestReport
+
+
+# Created at 2022-10-07T18:55:02.697
+Unexpected IOException: 5,1,TestCases.UiTestingPlayGroundCases,TC_01_DYNAMIC_LINK_VALIDATION(TestCases.UiTestingPlayGroundCases),TestCases.UiTestingPlayGroundCases,null,null
+
+
+# Created at 2022-10-07T18:55:02.707
+Unexpected IOException with stream: *** Test execution TC_01_DYNAMIC_LINK_VALIDATION failed...
+
+
+# Created at 2022-10-07T18:55:02.717
+Unexpected IOException: 8,1,TestCases.UiTestingPlayGroundCases,TC_01_DYNAMIC_LINK_VALIDATION(TestCases.UiTestingPlayGroundCases),null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:34457\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'snagarajan-MacBook-Pro'\002C ip: '2401:4900:22e2:1c1c:b965:1ed7:8ee9:c52f%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.16'\002C java.version: '11.0.11'\000ADriver info: driver.version: RemoteWebDriver,null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:34457\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'snagarajan-MacBook-Pro'\002C ip: '2401:4900:22e2:1c1c:b965:1ed7:8ee9:c52f%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.16'\002C java.version: '11.0.11'\000ADriver info: driver.version: RemoteWebDriver,UiTestingPlayGroundCases.TC_01_DYNAMIC_LINK_VALIDATION:23 \00BB WebDriver java.net...,org.openqa.selenium.WebDriverException: \000Ajava.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:34457\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'snagarajan-MacBook-Pro'\002C ip: '2401:4900:22e2:1c1c:b965:1ed7:8ee9:c52f%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.16'\002C java.version: '11.0.11'\000ADriver info: driver.version: RemoteWebDriver\000A\0009at TestCases.UiTestingPlayGroundCases.TC_01_DYNAMIC_LINK_VALIDATION(UiTestingPlayGroundCases.java:23)\000ACaused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:34457\000A\0009at TestCases.UiTestingPlayGroundCases.TC_01_DYNAMIC_LINK_VALIDATION(UiTestingPlayGroundCases.java:23)\000ACaused by: java.net.ConnectException: Connection refused (Connection refused)\000A\0009at TestCases.UiTestingPlayGroundCases.TC_01_DYNAMIC_LINK_VALIDATION(UiTestingPlayGroundCases.java:23)\000A
+
+
+# Created at 2022-10-07T18:55:02.721
+Unexpected IOException: 8,1,TestCases.UiTestingPlayGroundCases,afterEveryTestCase(TestCases.UiTestingPlayGroundCases),null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:34457\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'snagarajan-MacBook-Pro'\002C ip: '2401:4900:22e2:1c1c:b965:1ed7:8ee9:c52f%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.16'\002C java.version: '11.0.11'\000ADriver info: driver.version: RemoteWebDriver,null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:34457\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'snagarajan-MacBook-Pro'\002C ip: '2401:4900:22e2:1c1c:b965:1ed7:8ee9:c52f%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.16'\002C java.version: '11.0.11'\000ADriver info: driver.version: RemoteWebDriver,UiTestingPlayGroundCases>BaseTest.afterEveryTestCase:119 \00BB WebDriver java.net....,org.openqa.selenium.WebDriverException: \000Ajava.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:34457\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'snagarajan-MacBook-Pro'\002C ip: '2401:4900:22e2:1c1c:b965:1ed7:8ee9:c52f%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.16'\002C java.version: '11.0.11'\000ADriver info: driver.version: RemoteWebDriver\000ACaused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:34457\000ACaused by: java.net.ConnectException: Connection refused (Connection refused)\000A
+
+

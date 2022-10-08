@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite-1]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="listeners.TestListener"/>
+  </listeners>
+  <test name="UiTestingPlayGroundTest(failed)">
+    <classes>
+      <class name="TestCases.UiTestingPlayGroundCases">
+        <methods>
+          <include name="beforeAllTests"/>
+          <include name="afterEveryTestCase"/>
+          <include name="TC05_Non_Breaking_Space"/>
+          <include name="destroyDriver"/>
+          <include name="AfterAllTests"/>
+          <include name="beforeEveryTestcase"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestCases.UiTestingPlayGroundCases -->
+    </classes>
+  </test> <!-- UiTestingPlayGroundTest(failed) -->
+</suite> <!-- Failed suite [Suite-1] -->

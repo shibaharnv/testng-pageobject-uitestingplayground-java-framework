@@ -1,0 +1,61 @@
+# Created at 2022-10-07T18:50:33.771
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2022-10-07T18:50:33.776
+Unexpected IOException: 8,1,TestCases.UiTestingPlayGroundCases,afterEveryTestCase(TestCases.UiTestingPlayGroundCases),null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:2592\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'snagarajan-MacBook-Pro'\002C ip: '2401:4900:22e2:1c1c:b965:1ed7:8ee9:c52f%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.16'\002C java.version: '11.0.11'\000ADriver info: driver.version: RemoteWebDriver,null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:2592\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'snagarajan-MacBook-Pro'\002C ip: '2401:4900:22e2:1c1c:b965:1ed7:8ee9:c52f%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.16'\002C java.version: '11.0.11'\000ADriver info: driver.version: RemoteWebDriver,UiTestingPlayGroundCases>BaseTest.afterEveryTestCase:127 \00BB WebDriver java.net....,org.openqa.selenium.WebDriverException: \000Ajava.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:2592\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'snagarajan-MacBook-Pro'\002C ip: '2401:4900:22e2:1c1c:b965:1ed7:8ee9:c52f%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.16'\002C java.version: '11.0.11'\000ADriver info: driver.version: RemoteWebDriver\000ACaused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:2592\000ACaused by: java.net.ConnectException: Connection refused (Connection refused)\000A
+
+
+# Created at 2022-10-07T18:50:33.778
+Unexpected IOException with stream: *** Test TC_02_DYNAMIC_WEB_TABLE_VALIDATION skipped...
+
+
+# Created at 2022-10-07T18:50:33.780
+Unexpected IOException: 9,1,TestCases.UiTestingPlayGroundCases,TC_02_DYNAMIC_WEB_TABLE_VALIDATION(TestCases.UiTestingPlayGroundCases),null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:2592\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'snagarajan-MacBook-Pro'\002C ip: '2401:4900:22e2:1c1c:b965:1ed7:8ee9:c52f%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.16'\002C java.version: '11.0.11'\000ADriver info: driver.version: RemoteWebDriver,null
+
+
+# Created at 2022-10-07T18:50:33.781
+Unexpected IOException with stream: *** Test TC_03_ENTERING_TEXT_IN_OVERLAPPED_ELEMENT_VALIDATION skipped...
+
+
+# Created at 2022-10-07T18:50:33.782
+Unexpected IOException: 9,1,TestCases.UiTestingPlayGroundCases,TC_03_ENTERING_TEXT_IN_OVERLAPPED_ELEMENT_VALIDATION(TestCases.UiTestingPlayGroundCases),null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:2592\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'snagarajan-MacBook-Pro'\002C ip: '2401:4900:22e2:1c1c:b965:1ed7:8ee9:c52f%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.16'\002C java.version: '11.0.11'\000ADriver info: driver.version: RemoteWebDriver,null
+
+
+# Created at 2022-10-07T18:50:33.783
+Unexpected IOException with stream: *** Test TC04_Non_Breaking_Space skipped...
+
+
+# Created at 2022-10-07T18:50:33.784
+Unexpected IOException: 9,1,TestCases.UiTestingPlayGroundCases,TC04_Non_Breaking_Space(TestCases.UiTestingPlayGroundCases),null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:2592\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'snagarajan-MacBook-Pro'\002C ip: '2401:4900:22e2:1c1c:b965:1ed7:8ee9:c52f%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.16'\002C java.version: '11.0.11'\000ADriver info: driver.version: RemoteWebDriver,null
+
+
+# Created at 2022-10-07T18:50:33.790
+Unexpected IOException with stream: *** Test TC05_VISIBILITY_TEST skipped...
+
+
+# Created at 2022-10-07T18:50:33.791
+Unexpected IOException: 9,1,TestCases.UiTestingPlayGroundCases,TC05_VISIBILITY_TEST(TestCases.UiTestingPlayGroundCases),null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:2592\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'snagarajan-MacBook-Pro'\002C ip: '2401:4900:22e2:1c1c:b965:1ed7:8ee9:c52f%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.16'\002C java.version: '11.0.11'\000ADriver info: driver.version: RemoteWebDriver,null
+
+
+# Created at 2022-10-07T18:50:33.792
+Unexpected IOException with stream: *** Test TC06_AJAX_DATA_TEST skipped...
+
+
+# Created at 2022-10-07T18:50:33.793
+Unexpected IOException: 9,1,TestCases.UiTestingPlayGroundCases,TC06_AJAX_DATA_TEST(TestCases.UiTestingPlayGroundCases),null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:2592\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'snagarajan-MacBook-Pro'\002C ip: '2401:4900:22e2:1c1c:b965:1ed7:8ee9:c52f%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.16'\002C java.version: '11.0.11'\000ADriver info: driver.version: RemoteWebDriver,null
+
+
+# Created at 2022-10-07T18:50:33.794
+Unexpected IOException with stream: *** Test TC7_LOAD_DELAY_TEST skipped...
+
+
+# Created at 2022-10-07T18:50:33.795
+Unexpected IOException: 9,1,TestCases.UiTestingPlayGroundCases,TC7_LOAD_DELAY_TEST(TestCases.UiTestingPlayGroundCases),null,java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:2592\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'snagarajan-MacBook-Pro'\002C ip: '2401:4900:22e2:1c1c:b965:1ed7:8ee9:c52f%en0'\002C os.name: 'Mac OS X'\002C os.arch: 'x86_64'\002C os.version: '10.16'\002C java.version: '11.0.11'\000ADriver info: driver.version: RemoteWebDriver,null
+
+
