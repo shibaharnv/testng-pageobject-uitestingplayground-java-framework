@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-20T14:10:26Z" name="Suite-1" finished-at="2022-10-20T14:11:07Z" duration-ms="40770">
+    <groups>
+      <group name="linktest">
+        <method signature="UiTestingPlayGroundCases.TC_01_DYNAMIC_LINK_VALIDATION()[pri:1, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" name="TC_01_DYNAMIC_LINK_VALIDATION" class="TestCases.UiTestingPlayGroundCases"/>
+      </group> <!-- linktest -->
+    </groups>
+    <test started-at="2022-10-20T14:10:26Z" name="UiTestingPlayGroundTest" finished-at="2022-10-20T14:11:07Z" duration-ms="40770">
+      <class name="TestCases.UiTestingPlayGroundCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:40:21Z" name="setUp" finished-at="2022-10-20T19:40:26Z" duration-ms="5304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="BeforeAllTests()[pri:0, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:40:26Z" name="BeforeAllTests" finished-at="2022-10-20T19:40:26Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeAllTests -->
+        <test-method signature="TC_01_DYNAMIC_LINK_VALIDATION()[pri:1, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:40:26Z" name="TC_01_DYNAMIC_LINK_VALIDATION" finished-at="2022-10-20T19:40:27Z" duration-ms="809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_DYNAMIC_LINK_VALIDATION -->
+        <test-method is-config="true" signature="afterEveryTestCase(org.testng.ITestResult)[pri:0, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:40:27Z" name="afterEveryTestCase" finished-at="2022-10-20T19:40:29Z" duration-ms="2025" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_DYNAMIC_LINK_VALIDATION status=SUCCESS method=UiTestingPlayGroundCases.TC_01_DYNAMIC_LINK_VALIDATION()[pri:1, instance:TestCases.UiTestingPlayGroundCases@15043a2f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEveryTestCase -->
+        <test-method signature="TC_02_DYNAMIC_WEB_TABLE_VALIDATION()[pri:2, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:40:29Z" name="TC_02_DYNAMIC_WEB_TABLE_VALIDATION" finished-at="2022-10-20T19:40:30Z" duration-ms="1111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_DYNAMIC_WEB_TABLE_VALIDATION -->
+        <test-method is-config="true" signature="afterEveryTestCase(org.testng.ITestResult)[pri:0, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:40:30Z" name="afterEveryTestCase" finished-at="2022-10-20T19:40:32Z" duration-ms="2026" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_02_DYNAMIC_WEB_TABLE_VALIDATION status=SUCCESS method=UiTestingPlayGroundCases.TC_02_DYNAMIC_WEB_TABLE_VALIDATION()[pri:2, instance:TestCases.UiTestingPlayGroundCases@15043a2f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEveryTestCase -->
+        <test-method signature="TC_03_ENTERING_TEXT_IN_OVERLAPPED_ELEMENT_VALIDATION()[pri:3, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:40:32Z" name="TC_03_ENTERING_TEXT_IN_OVERLAPPED_ELEMENT_VALIDATION" finished-at="2022-10-20T19:40:33Z" duration-ms="771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_ENTERING_TEXT_IN_OVERLAPPED_ELEMENT_VALIDATION -->
+        <test-method is-config="true" signature="afterEveryTestCase(org.testng.ITestResult)[pri:0, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:40:33Z" name="afterEveryTestCase" finished-at="2022-10-20T19:40:35Z" duration-ms="2029" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_03_ENTERING_TEXT_IN_OVERLAPPED_ELEMENT_VALIDATION status=SUCCESS method=UiTestingPlayGroundCases.TC_03_ENTERING_TEXT_IN_OVERLAPPED_ELEMENT_VALIDATION()[pri:3, instance:TestCases.UiTestingPlayGroundCases@15043a2f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEveryTestCase -->
+        <test-method signature="TC04_Non_Breaking_Space()[pri:4, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:40:35Z" name="TC04_Non_Breaking_Space" finished-at="2022-10-20T19:40:36Z" duration-ms="1223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04_Non_Breaking_Space -->
+        <test-method is-config="true" signature="afterEveryTestCase(org.testng.ITestResult)[pri:0, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:40:36Z" name="afterEveryTestCase" finished-at="2022-10-20T19:40:38Z" duration-ms="2016" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC04_Non_Breaking_Space status=SUCCESS method=UiTestingPlayGroundCases.TC04_Non_Breaking_Space()[pri:4, instance:TestCases.UiTestingPlayGroundCases@15043a2f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEveryTestCase -->
+        <test-method signature="TC05_VISIBILITY_TEST()[pri:5, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:40:38Z" name="TC05_VISIBILITY_TEST" finished-at="2022-10-20T19:40:39Z" duration-ms="712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05_VISIBILITY_TEST -->
+        <test-method is-config="true" signature="afterEveryTestCase(org.testng.ITestResult)[pri:0, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:40:39Z" name="afterEveryTestCase" finished-at="2022-10-20T19:40:41Z" duration-ms="2011" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC05_VISIBILITY_TEST status=SUCCESS method=UiTestingPlayGroundCases.TC05_VISIBILITY_TEST()[pri:5, instance:TestCases.UiTestingPlayGroundCases@15043a2f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEveryTestCase -->
+        <test-method signature="TC06_AJAX_DATA_TEST()[pri:6, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:40:41Z" name="TC06_AJAX_DATA_TEST" finished-at="2022-10-20T19:40:57Z" duration-ms="16367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06_AJAX_DATA_TEST -->
+        <test-method is-config="true" signature="afterEveryTestCase(org.testng.ITestResult)[pri:0, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:40:57Z" name="afterEveryTestCase" finished-at="2022-10-20T19:40:59Z" duration-ms="2015" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC06_AJAX_DATA_TEST status=SUCCESS method=UiTestingPlayGroundCases.TC06_AJAX_DATA_TEST()[pri:6, instance:TestCases.UiTestingPlayGroundCases@15043a2f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEveryTestCase -->
+        <test-method signature="TC7_LOAD_DELAY_TEST()[pri:7, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:40:59Z" name="TC7_LOAD_DELAY_TEST" finished-at="2022-10-20T19:41:05Z" duration-ms="5613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC7_LOAD_DELAY_TEST -->
+        <test-method is-config="true" signature="afterEveryTestCase(org.testng.ITestResult)[pri:0, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:41:05Z" name="afterEveryTestCase" finished-at="2022-10-20T19:41:07Z" duration-ms="2031" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC7_LOAD_DELAY_TEST status=SUCCESS method=UiTestingPlayGroundCases.TC7_LOAD_DELAY_TEST()[pri:7, instance:TestCases.UiTestingPlayGroundCases@15043a2f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEveryTestCase -->
+        <test-method is-config="true" signature="AfterAllTests()[pri:0, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:41:07Z" name="AfterAllTests" finished-at="2022-10-20T19:41:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterAllTests -->
+        <test-method is-config="true" signature="destroyDriver()[pri:0, instance:TestCases.UiTestingPlayGroundCases@15043a2f]" started-at="2022-10-20T19:41:07Z" name="destroyDriver" finished-at="2022-10-20T19:41:07Z" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroyDriver -->
+      </class> <!-- TestCases.UiTestingPlayGroundCases -->
+    </test> <!-- UiTestingPlayGroundTest -->
+  </suite> <!-- Suite-1 -->
+</testng-results>

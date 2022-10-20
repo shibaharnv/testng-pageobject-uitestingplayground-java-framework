@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite-1" parallel="false">
+    <listeners>
+        <listener class-name="listeners.Listeners"/>
+    </listeners>
+<!--    <test name="UiTestingPlayGroundTest" thread-count="1">-->
+
+<!--    <test name="UiTestingPlayGroundTest" verbose="2" preserve-order="true">-->
+    <test name="UiTestingPlayGroundTest">
+        <groups>
+            <run>
+                <include name="linktest"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="TestCases.UiTestingPlayGroundCases">
+            </class>
+        </classes>
+    </test>
+</suite>
