@@ -25,7 +25,30 @@ git clone -b main https://github.com/shibaharnv/testng-pageobject-uitestingplayg
 
 ```bash
           Open the cloned project in IDE and navigate to test.xml in the root directory and run it.
+                                        OR
+                       mvn clean test -DXML="test.xml" -DexecutionMode="Local"
+
 ```
+
+### How to run the tests locally using groups ###
+
+```bash
+          Open the cloned project in IDE and navigate to test_group.xml in the root directory and run it.
+                                          OR
+                       mvn clean test -DXML="test_group.xml" -DexecutionMode="Local"
+          
+```
+
+
+### How to run the tests in headless mode ###
+
+```bash
+          Open the cloned project in IDE and navigate to test.xml in the root directory and run it.
+                                        OR
+                       mvn clean test -DXML="test.xml" -DexecutionMode="Remote"
+
+```
+
 
 
 
