@@ -48,6 +48,33 @@ git clone -b main https://github.com/shibaharnv/testng-pageobject-uitestingplayg
 
 
 
+###  Docker Image creation and testcase exectution inside docker container
+
+Docker image can be created for this automation project using the below command
+
+```bash
+            docker build --no-cache -t {imagename} .
+
+```
+
+All the testcases present in the framework can be executed inside the docker container
+
+####  Docker Container Creation
+
+```bash
+            docker create {imagename}
+```
+
+####  Testcases execution inside Docker Container
+
+```bash
+            docker run {imagename}
+```
+
+
+
+
+
 
 ### How to run the test in a CI/CD pipeline
 
