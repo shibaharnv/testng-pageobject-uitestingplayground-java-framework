@@ -40,8 +40,7 @@ git clone -b main https://github.com/shibaharnv/testng-pageobject-uitestingplayg
 ### How to run the tests in headless mode ###
 
 ```bash
-          Open the cloned project in IDE and navigate to test.xml in the root directory and run it.
-                                        OR
+          
                        mvn clean test -DXML="test.xml" -DexecutionMode="Remote"
 
 ```
